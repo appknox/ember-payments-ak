@@ -1,5 +1,5 @@
 {
-  "name": "ember-cli-stripe",
+  "name": "ember-payments-ak",
   "version": "0.3.0",
   "description": "Stripe checkout for Ember",
   "author": "Bill Curtis <wcurtis@sweettoothhq.com>",
@@ -14,16 +14,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sweettooth/ember-cli-stripe"
+    "url": "https://github.com/xysec/ember-payments-ak"
   },
   "bugs": {
-    "url": "https://github.com/sweettooth/ember-cli-stripe/issues"
+    "url": "https://github.com/xysec/ember-payments-ak/issues"
   },
   "engines": {
     "node": ">= 0.10.0"
   },
   "license": "MIT",
-  "homepage": "https://github.com/sweettooth/ember-cli-stripe",
+  "homepage": "https://github.com/xysec/ember-payments-ak",
   "devDependencies": {
     "body-parser": "^1.2.0",
     "broccoli-asset-rev": "0.3.1",
