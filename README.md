@@ -5,6 +5,7 @@
 ## Description
 
 Forked from [sweettooth/ember-cli-stripe](https://github.com/sweettooth/ember-cli-stripe) to add [Appknox](https://appknox.com/)'s own customizations
+
 This Ember CLI addon provides a component for adding Stripe checkout functionality to your app. See https://stripe.com/docs/checkout
 
 ## Installation
